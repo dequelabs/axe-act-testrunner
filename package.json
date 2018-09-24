@@ -1,0 +1,45 @@
+{
+  "name": "axe-act-testrunner",
+  "version": "1.0.0",
+  "description": "axe-core testrunner using the ACT test case format",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "npm run format && npm run lint && node src/index.js",
+    "lint": "eslint 'src/**/*.js'",
+    "format": "prettier --write  *.js 'src/**/*.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dequelabs/axe-act-testrunner.git"
+  },
+  "keywords": [
+    "axe-core",
+    "auto-wcag",
+    "act",
+    "testrunner"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dequelabs/axe-act-testrunner/issues"
+  },
+  "homepage": "https://github.com/dequelabs/axe-act-testrunner#readme",
+  "dependencies": {
+    "axe-core": "^3.1.2",
+    "fs-extra": "^7.0.0",
+    "markdown-table": "^1.1.2",
+    "testrunner": "git+https://github.com/auto-wcag/testrunner.git"
+  },
+  "devDependencies": {
+    "eslint": "^5.6.0",
+    "eslint-config-prettier": "^3.0.1",
+    "eslint-config-prettier-standard": "^2.0.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-prettier": "^2.6.2",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "prettier": "^1.14.2"
+  }
+}
