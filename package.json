@@ -18,7 +18,7 @@
     "act",
     "testrunner"
   ],
-  "author": "",
+  "author": "Jey <jey.nandakumar@deque.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dequelabs/axe-act-testrunner/issues"
@@ -32,7 +32,7 @@
   },
   "devDependencies": {
     "eslint": "^5.6.0",
-    "eslint-config-prettier": "^3.0.1",
+    "eslint-config-prettier": "^3.1.0",
     "eslint-config-prettier-standard": "^2.0.0",
     "eslint-config-standard": "^12.0.0",
     "eslint-plugin-import": "^2.14.0",

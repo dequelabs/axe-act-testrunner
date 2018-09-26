@@ -19,15 +19,24 @@ function evaluate() {
         if (err) {
           reject(err)
         }
-        const out = {
-          ruleId: testcase.ruleId,
-          testcaseUrl: testcase.url,
-          testcaseStatus: getTestCaseStatus({
-            result,
-            testcase
+        getTestCaseStatus({
+          result,
+          testcase
+        })
+          .then(testcaseStatus => {
+            const out = {
+              ruleId: testcase.ruleId,
+              testcaseUrl: testcase.url,
+              testcaseStatus
+            }
+            resolve(out)
           })
-        }
-        resolve(out)
+          .catch(err => {
+            throw new Error(
+              `Log: TestRunner: Unable to fetch test case status`,
+              err
+            )
+          })
       }
     )
   })
@@ -36,3 +45,9 @@ function evaluate() {
 module.exports = {
   evaluate
 }
+
+/**
+ * TODO:JEY
+ * axe-core returns a promise, so you can chain on that:
+ * return axe.run(document, context).then(getActResult)
+ */

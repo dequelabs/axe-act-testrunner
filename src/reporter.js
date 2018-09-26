@@ -37,3 +37,35 @@ async function generateReports({ types, fileName, outputDirectory, results }) {
 module.exports = {
   generateReports
 }
+
+/**
+ * TODO:JEY
+ * We'll need the testrunner to generate some sort of standardized JSON. It'll have to include more than just the results. I suggest having the testrunner generate it, and from there we can generate the MD file here. It should look something like this:
+
+{
+  testSystem: {
+    name: String,
+    version: String,
+    url: String
+  },
+  creator: {
+    name: String,
+    url: String
+  },
+  testEnvironment: {
+    name: String,
+    version: String,
+    ...
+  },
+  ruleStatus: [
+    ruleId: String,
+    status: Enum,
+    testCases: {
+      [testcaseId]: Enum #status
+    }
+  ]
+}
+
+
+TODO:JEY - Be sure to add some tests to this repo at some point.
+ */

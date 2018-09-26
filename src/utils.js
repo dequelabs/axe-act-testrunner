@@ -62,6 +62,12 @@ function getRuleStatus(ruleTestCasesResults) {
 }
 
 /**
+ * TODO:JEY
+ * This function should be part of the testrunner.
+ * The test engine should return its findings to the testrunner, the test runner should decide the status.
+ * The rules for deciding the status shouldn't change between implementors.
+ */
+/**
  * Get testcase status
  * @param {Object} param composite object with attributes to compute testcase status
  * @property {Object} param.result result of testcase
@@ -93,7 +99,8 @@ function getTestCaseStatus({ result, testcase }) {
       ? 'violations'
       : wcagResult.key
   const key = `${testcase.expected}-${wcagResultKey}`
-  return wcagVsAxeResultsMap[key]
+  const out = wcagVsAxeResultsMap[key]
+  return out
 }
 
 /**
