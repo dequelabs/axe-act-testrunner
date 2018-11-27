@@ -1,42 +1,28 @@
-/* global testcase, getTestCaseStatus */
-const axe = require('axe-core')
+/* global axe, testcase, reporter */
+
 const { rulesMap } = require('./rules-map')
 
 // Function to be evaluated with in the page context
 function evaluate() {
-  return new Promise((resolve, reject) => {
-    // const fixture = document.querySelector(testcase.selector)
+  return new Promise(async (resolve, reject) => {
     const axeIds = rulesMap[testcase.ruleId]
     axe.run(
-      document,
       {
+        reporter: async function(raw, _, cb) {
+          const url = window.location.href
+          const results = await reporter(raw, url)
+          return results
+        },
         runOnly: {
           type: 'rules',
           values: axeIds
         }
       },
-      (err, result) => {
+      async (err, result) => {
         if (err) {
           reject(err)
         }
-        getTestCaseStatus({
-          result,
-          testcase
-        })
-          .then(testcaseStatus => {
-            const out = {
-              ruleId: testcase.ruleId,
-              testcaseUrl: testcase.url,
-              testcaseStatus
-            }
-            resolve(out)
-          })
-          .catch(err => {
-            throw new Error(
-              `Log: TestRunner: Unable to fetch test case status`,
-              err
-            )
-          })
+        resolve(result)
       }
     )
   })
@@ -45,9 +31,3 @@ function evaluate() {
 module.exports = {
   evaluate
 }
-
-/**
- * TODO:JEY
- * axe-core returns a promise, so you can chain on that:
- * return axe.run(document, context).then(getActResult)
- */
