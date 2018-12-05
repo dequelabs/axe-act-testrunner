@@ -26,7 +26,7 @@ const configuration = {
    */
   globals: {
     rulesMap,
-    reporter: createEarlReport
+    createEarlReport
   },
 
   /**

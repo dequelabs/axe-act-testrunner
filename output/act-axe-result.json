@@ -8,6 +8,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -32,7 +34,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/image-alt?application=axeAPI"
@@ -55,6 +70,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -79,7 +96,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/image-alt?application=axeAPI"
@@ -102,6 +132,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -126,7 +158,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/image-alt?application=axeAPI"
@@ -149,6 +194,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -173,7 +220,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/image-alt?application=axeAPI"
@@ -196,6 +256,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -220,7 +282,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/image-alt?application=axeAPI"
@@ -243,6 +318,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -267,7 +344,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/image-alt?application=axeAPI"
@@ -290,6 +380,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -314,7 +406,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/image-alt?application=axeAPI"
@@ -337,6 +442,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -361,7 +468,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/image-alt?application=axeAPI"
@@ -384,6 +504,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -408,7 +530,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/image-alt?application=axeAPI"
@@ -431,6 +566,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -455,7 +592,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/audio-caption?application=axeAPI"
@@ -478,6 +628,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -502,7 +654,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/audio-caption?application=axeAPI"
@@ -525,6 +690,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -549,7 +716,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/audio-caption?application=axeAPI"
@@ -572,6 +752,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -596,7 +778,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/audio-caption?application=axeAPI"
@@ -619,6 +814,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -643,7 +840,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/audio-caption?application=axeAPI"
@@ -666,6 +876,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -690,7 +902,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/audio-caption?application=axeAPI"
@@ -713,6 +938,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -737,7 +964,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/audio-caption?application=axeAPI"
@@ -760,6 +1000,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -784,7 +1026,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/audio-caption?application=axeAPI"
@@ -807,6 +1062,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -831,7 +1088,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/video-description?application=axeAPI"
@@ -854,6 +1124,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -878,7 +1150,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/video-description?application=axeAPI"
@@ -901,6 +1186,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -925,7 +1212,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/video-description?application=axeAPI"
@@ -948,6 +1248,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -972,7 +1274,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/video-description?application=axeAPI"
@@ -995,6 +1310,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -1019,7 +1336,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/video-description?application=axeAPI"
@@ -1042,6 +1372,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -1066,7 +1398,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/autocomplete-valid?application=axeAPI"
@@ -1089,6 +1434,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -1113,7 +1460,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/autocomplete-valid?application=axeAPI"
@@ -1136,6 +1496,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -1160,7 +1522,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/autocomplete-valid?application=axeAPI"
@@ -1183,6 +1558,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -1207,7 +1584,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/autocomplete-valid?application=axeAPI"
@@ -1230,6 +1620,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -1254,7 +1646,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/autocomplete-valid?application=axeAPI"
@@ -1277,6 +1682,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -1301,7 +1708,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/autocomplete-valid?application=axeAPI"
@@ -1324,6 +1744,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -1348,7 +1770,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/autocomplete-valid?application=axeAPI"
@@ -1371,6 +1806,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -1395,7 +1832,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/autocomplete-valid?application=axeAPI"
@@ -1418,6 +1868,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -1442,7 +1894,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/autocomplete-valid?application=axeAPI"
@@ -1465,6 +1930,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -1489,7 +1956,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/autocomplete-valid?application=axeAPI"
@@ -1512,6 +1992,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -1536,7 +2018,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/autocomplete-valid?application=axeAPI"
@@ -1559,6 +2054,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -1583,7 +2080,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/autocomplete-valid?application=axeAPI"
@@ -1606,6 +2116,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -1630,7 +2142,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/autocomplete-valid?application=axeAPI"
@@ -1651,6 +2176,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -1675,7 +2202,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/autocomplete-valid?application=axeAPI"
@@ -1696,6 +2236,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -1720,7 +2262,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/autocomplete-valid?application=axeAPI"
@@ -1741,6 +2296,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -1765,7 +2322,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/autocomplete-valid?application=axeAPI"
@@ -1786,6 +2356,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -1810,7 +2382,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/autocomplete-valid?application=axeAPI"
@@ -1831,6 +2416,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -1855,7 +2442,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/autocomplete-valid?application=axeAPI"
@@ -1876,6 +2476,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -1900,7 +2502,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/autocomplete-valid?application=axeAPI"
@@ -1921,6 +2536,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -1945,7 +2562,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/autocomplete-valid?application=axeAPI"
@@ -1966,6 +2596,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -1990,7 +2622,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/autocomplete-valid?application=axeAPI"
@@ -2011,6 +2656,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -2035,7 +2682,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/document-title?application=axeAPI"
@@ -2058,6 +2718,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -2082,7 +2744,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/document-title?application=axeAPI"
@@ -2105,6 +2780,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -2129,7 +2806,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/document-title?application=axeAPI"
@@ -2152,6 +2842,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -2176,7 +2868,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/document-title?application=axeAPI"
@@ -2199,6 +2904,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -2223,7 +2930,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/document-title?application=axeAPI"
@@ -2246,6 +2966,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -2270,7 +2992,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/document-title?application=axeAPI"
@@ -2293,6 +3028,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -2317,7 +3054,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/document-title?application=axeAPI"
@@ -2340,6 +3090,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -2364,7 +3116,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/document-title?application=axeAPI"
@@ -2387,6 +3152,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -2411,7 +3178,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/document-title?application=axeAPI"
@@ -2434,6 +3214,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -2458,7 +3240,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/link-name?application=axeAPI"
@@ -2481,6 +3276,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -2505,7 +3302,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/link-name?application=axeAPI"
@@ -2526,6 +3336,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -2550,7 +3362,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/link-name?application=axeAPI"
@@ -2571,6 +3396,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -2595,7 +3422,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/link-name?application=axeAPI"
@@ -2618,6 +3458,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -2642,7 +3484,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/link-name?application=axeAPI"
@@ -2665,6 +3520,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -2689,7 +3546,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/link-name?application=axeAPI"
@@ -2712,6 +3582,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -2736,7 +3608,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/link-name?application=axeAPI"
@@ -2759,6 +3644,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -2783,7 +3670,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/link-name?application=axeAPI"
@@ -2806,6 +3706,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -2830,7 +3732,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/link-name?application=axeAPI"
@@ -2853,6 +3768,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -2877,7 +3794,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/link-name?application=axeAPI"
@@ -2900,6 +3830,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -2924,7 +3856,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/link-name?application=axeAPI"
@@ -2947,6 +3892,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -2971,7 +3918,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/link-name?application=axeAPI"
@@ -2994,6 +3954,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -3018,7 +3980,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/link-name?application=axeAPI"
@@ -3041,6 +4016,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -3065,7 +4042,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/link-name?application=axeAPI"
@@ -3088,6 +4078,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -3112,7 +4104,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/link-name?application=axeAPI"
@@ -3135,6 +4140,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -3159,7 +4166,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/link-name?application=axeAPI"
@@ -3182,6 +4202,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -3206,7 +4228,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/link-name?application=axeAPI"
@@ -3227,6 +4262,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -3251,7 +4288,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/link-name?application=axeAPI"
@@ -3272,6 +4322,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -3296,7 +4348,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/link-name?application=axeAPI"
@@ -3317,6 +4382,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -3341,7 +4408,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/link-name?application=axeAPI"
@@ -3362,6 +4442,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -3386,7 +4468,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/html-has-lang?application=axeAPI"
@@ -3409,6 +4504,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -3433,7 +4530,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/html-has-lang?application=axeAPI"
@@ -3456,6 +4566,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -3480,7 +4592,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/html-has-lang?application=axeAPI"
@@ -3503,6 +4628,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -3527,7 +4654,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/html-has-lang?application=axeAPI"
@@ -3550,6 +4690,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -3574,7 +4716,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/html-has-lang?application=axeAPI"
@@ -3597,6 +4752,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -3621,7 +4778,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/html-has-lang?application=axeAPI"
@@ -3644,6 +4814,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -3668,7 +4840,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/html-has-lang?application=axeAPI"
@@ -3691,6 +4876,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -3715,7 +4902,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/html-has-lang?application=axeAPI"
@@ -3738,6 +4938,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -3762,7 +4964,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/html-has-lang?application=axeAPI"
@@ -3785,6 +5000,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -3809,7 +5026,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/html-has-lang?application=axeAPI"
@@ -3832,6 +5062,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -3856,7 +5088,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/html-has-lang?application=axeAPI"
@@ -3879,6 +5124,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -3903,7 +5150,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/html-lang-valid?application=axeAPI"
@@ -3926,6 +5186,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -3950,16 +5212,27 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/html-lang-valid?application=axeAPI"
         },
         "result": {
           "@type": "TestResult",
-          "info": "Ensures the lang attribute of the <html> element has a valid value",
-          "outcome": "earl:passed",
-          "pointer": "html"
+          "outcome": "earl:inapplicable"
         }
       }
     ]
@@ -3973,6 +5246,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -3997,7 +5272,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/html-lang-valid?application=axeAPI"
@@ -4020,6 +5308,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -4044,7 +5334,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/html-lang-valid?application=axeAPI"
@@ -4067,6 +5370,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -4091,7 +5396,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/html-lang-valid?application=axeAPI"
@@ -4114,6 +5432,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -4138,7 +5458,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/html-lang-valid?application=axeAPI"
@@ -4161,6 +5494,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -4185,16 +5520,27 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/html-lang-valid?application=axeAPI"
         },
         "result": {
           "@type": "TestResult",
-          "info": "Ensures the lang attribute of the <html> element has a valid value",
-          "outcome": "earl:failed",
-          "pointer": "html"
+          "outcome": "earl:inapplicable"
         }
       }
     ]
@@ -4208,6 +5554,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -4232,7 +5580,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/html-lang-valid?application=axeAPI"
@@ -4255,6 +5616,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -4279,7 +5642,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/html-lang-valid?application=axeAPI"
@@ -4302,6 +5678,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -4326,7 +5704,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/html-lang-valid?application=axeAPI"
@@ -4349,6 +5740,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -4373,16 +5766,27 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/html-lang-valid?application=axeAPI"
         },
         "result": {
           "@type": "TestResult",
-          "info": "Ensures the lang attribute of the <html> element has a valid value",
-          "outcome": "earl:passed",
-          "pointer": "html"
+          "outcome": "earl:inapplicable"
         }
       }
     ]
@@ -4396,6 +5800,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -4420,7 +5826,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/html-xml-lang-mismatch?application=axeAPI"
@@ -4443,6 +5862,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -4467,7 +5888,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/html-xml-lang-mismatch?application=axeAPI"
@@ -4490,6 +5924,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -4514,7 +5950,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/html-xml-lang-mismatch?application=axeAPI"
@@ -4537,6 +5986,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -4561,7 +6012,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/html-xml-lang-mismatch?application=axeAPI"
@@ -4584,6 +6048,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -4608,7 +6074,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/html-xml-lang-mismatch?application=axeAPI"
@@ -4631,6 +6110,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -4655,7 +6136,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/html-xml-lang-mismatch?application=axeAPI"
@@ -4678,6 +6172,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -4702,7 +6198,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/html-xml-lang-mismatch?application=axeAPI"
@@ -4723,6 +6232,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -4747,7 +6258,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/html-xml-lang-mismatch?application=axeAPI"
@@ -4768,6 +6292,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -4792,7 +6318,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/valid-lang?application=axeAPI"
@@ -4815,6 +6354,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -4839,7 +6380,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/valid-lang?application=axeAPI"
@@ -4862,6 +6416,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -4886,7 +6442,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/valid-lang?application=axeAPI"
@@ -4909,6 +6478,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -4933,7 +6504,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/valid-lang?application=axeAPI"
@@ -4956,6 +6540,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -4980,7 +6566,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/valid-lang?application=axeAPI"
@@ -5003,6 +6602,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -5027,7 +6628,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/valid-lang?application=axeAPI"
@@ -5050,6 +6664,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -5074,7 +6690,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/valid-lang?application=axeAPI"
@@ -5097,6 +6726,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -5121,7 +6752,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/valid-lang?application=axeAPI"
@@ -5142,6 +6786,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -5166,7 +6812,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/valid-lang?application=axeAPI"
@@ -5189,6 +6848,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -5213,7 +6874,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/valid-lang?application=axeAPI"
@@ -5236,6 +6910,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -5260,7 +6936,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/duplicate-id-active?application=axeAPI"
@@ -5273,7 +6962,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/duplicate-id-aria?application=axeAPI"
@@ -5286,7 +6988,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/duplicate-id?application=axeAPI"
@@ -5309,6 +7024,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -5333,7 +7050,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/duplicate-id-active?application=axeAPI"
@@ -5346,7 +7076,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/duplicate-id-aria?application=axeAPI"
@@ -5359,7 +7102,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/duplicate-id?application=axeAPI"
@@ -5374,7 +7130,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/duplicate-id?application=axeAPI"
@@ -5389,7 +7158,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/duplicate-id?application=axeAPI"
@@ -5412,6 +7194,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -5436,7 +7220,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/duplicate-id-active?application=axeAPI"
@@ -5449,7 +7246,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/duplicate-id-aria?application=axeAPI"
@@ -5462,7 +7272,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/duplicate-id?application=axeAPI"
@@ -5485,6 +7308,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -5509,7 +7334,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/duplicate-id-active?application=axeAPI"
@@ -5522,7 +7360,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/duplicate-id-aria?application=axeAPI"
@@ -5535,7 +7386,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/duplicate-id?application=axeAPI"
@@ -5558,6 +7422,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -5582,7 +7448,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/duplicate-id-active?application=axeAPI"
@@ -5595,7 +7474,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/duplicate-id-aria?application=axeAPI"
@@ -5608,7 +7500,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/duplicate-id?application=axeAPI"
@@ -5631,6 +7536,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -5655,7 +7562,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/duplicate-id-active?application=axeAPI"
@@ -5668,7 +7588,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/duplicate-id-aria?application=axeAPI"
@@ -5681,7 +7614,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/duplicate-id?application=axeAPI"
@@ -5704,6 +7650,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -5728,7 +7676,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/duplicate-id-active?application=axeAPI"
@@ -5741,7 +7702,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/duplicate-id-aria?application=axeAPI"
@@ -5754,7 +7728,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/duplicate-id?application=axeAPI"
@@ -5775,6 +7762,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -5799,7 +7788,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/duplicate-id-active?application=axeAPI"
@@ -5812,7 +7814,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/duplicate-id-aria?application=axeAPI"
@@ -5825,7 +7840,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/duplicate-id?application=axeAPI"
@@ -5846,6 +7874,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -5870,7 +7900,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/button-name?application=axeAPI"
@@ -5893,6 +7936,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -5917,7 +7962,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/button-name?application=axeAPI"
@@ -5940,6 +7998,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -5964,7 +8024,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/button-name?application=axeAPI"
@@ -5987,6 +8060,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -6011,7 +8086,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/button-name?application=axeAPI"
@@ -6034,6 +8122,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -6058,7 +8148,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/button-name?application=axeAPI"
@@ -6079,6 +8182,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -6103,7 +8208,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/button-name?application=axeAPI"
@@ -6126,6 +8244,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -6150,7 +8270,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/button-name?application=axeAPI"
@@ -6173,6 +8306,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -6197,7 +8332,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/button-name?application=axeAPI"
@@ -6220,6 +8368,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -6244,7 +8394,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/button-name?application=axeAPI"
@@ -6267,6 +8430,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -6291,7 +8456,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/button-name?application=axeAPI"
@@ -6312,6 +8490,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -6336,7 +8516,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/button-name?application=axeAPI"
@@ -6357,6 +8550,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -6381,7 +8576,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/button-name?application=axeAPI"
@@ -6404,6 +8612,8 @@
       "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
       "dct": "http://purl.org/dc/terms#",
       "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
       "WebPage": "sch:WebPage",
       "url": "dct:source",
       "assertions": {
@@ -6428,7 +8638,20 @@
       {
         "@type": "Assertion",
         "mode": "earl:automatic",
-        "assertedBy": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
         "test": {
           "@type": "TestCase",
           "@id": "https://dequeuniversity.com/rules/axe/3.1/button-name?application=axeAPI"

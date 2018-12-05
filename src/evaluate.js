@@ -1,24 +1,22 @@
-/* global axe, testcase, reporter */
+/* global axe, testcase, createEarlReport */
 
 const { rulesMap } = require('./rules-map')
 
 // Function to be evaluated with in the page context
 function evaluate() {
-  return new Promise(async (resolve, reject) => {
+  return new Promise((resolve, reject) => {
     const axeIds = rulesMap[testcase.ruleId]
     axe.run(
       {
-        reporter: async function(raw, _, cb) {
-          const url = window.location.href
-          const results = await reporter(raw, url)
-          return results
+        reporter: function(raw) {
+          return createEarlReport(raw, window.location.href)
         },
         runOnly: {
           type: 'rules',
           values: axeIds
         }
       },
-      async (err, result) => {
+      (err, result) => {
         if (err) {
           reject(err)
         }

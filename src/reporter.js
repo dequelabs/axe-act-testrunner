@@ -1,8 +1,4 @@
-const {
-  getFormattedResults,
-  getMarkdownTableData,
-  writeFile
-} = require('./utils')
+const { writeFile } = require('./utils')
 
 /**
  * @param {Object} param composite object with details to generate report
@@ -15,7 +11,10 @@ async function generateReports({ fileName, outputDirectory, fileContent }) {
   const fileNamePrefix = outputDirectory
     ? `${outputDirectory}/${fileName}`
     : fileName
-  await writeFile(`${fileNamePrefix}.json`, JSON.stringify(fileContent, null, 2))
+  await writeFile(
+    `${fileNamePrefix}.json`,
+    JSON.stringify(fileContent, null, 2)
+  )
 }
 
 // export

@@ -19,9 +19,7 @@ const skipTests = {
     'SC3-1-1-html-has-lang_inapplicable_example_1.html', // svg document cannot be tested for title
     'SC4-1-2-button-has-name_failed_example_2.html' // issue - https://github.com/auto-wcag/auto-wcag/issues/264
   ],
-  extensions: [
-    'svg'
-  ]
+  fileExtensions: ['svg']
 }
 
 // export

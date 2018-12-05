@@ -26,10 +26,10 @@
   },
   "homepage": "https://github.com/dequelabs/axe-act-testrunner#readme",
   "dependencies": {
-    "axe-core": "^3.1.2-canary.2cff417",
-    "axe-reporter-earl": "github:dequelabs/axe-reporter-earl#develop",
+    "axe-core": "^3.1.2-canary.e67fc65",
+    "axe-reporter-earl": "0.1.0-canary.be38c0de",
     "fs-extra": "^7.0.0",
-    "testrunner": "git+https://github.com/auto-wcag/testrunner.git#develop"
+    "testrunner": "git+https://github.com/auto-wcag/testrunner.git#master"
   },
   "devDependencies": {
     "eslint": "^5.6.0",
