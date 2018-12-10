@@ -4,6 +4,7 @@
   "description": "axe-core testrunner using the ACT test case format",
   "main": "src/index.js",
   "scripts": {
+    "dev": "node --inspect src/index.js",
     "build": "npm run format && npm run lint && node src/index.js",
     "lint": "eslint 'src/**/*.js'",
     "format": "prettier --write  *.js 'src/**/*.js'"
@@ -18,21 +19,21 @@
     "act",
     "testrunner"
   ],
-  "author": "",
+  "author": "Jey <jey.nandakumar@deque.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dequelabs/axe-act-testrunner/issues"
   },
   "homepage": "https://github.com/dequelabs/axe-act-testrunner#readme",
   "dependencies": {
-    "axe-core": "^3.1.2",
+    "axe-core": "^3.1.2-canary.e67fc65",
+    "axe-reporter-earl": "0.1.0-canary.be38c0de",
     "fs-extra": "^7.0.0",
-    "markdown-table": "^1.1.2",
-    "testrunner": "git+https://github.com/auto-wcag/testrunner.git"
+    "testrunner": "git+https://github.com/auto-wcag/testrunner.git#master"
   },
   "devDependencies": {
     "eslint": "^5.6.0",
-    "eslint-config-prettier": "^3.0.1",
+    "eslint-config-prettier": "^3.1.0",
     "eslint-config-prettier-standard": "^2.0.0",
     "eslint-config-standard": "^12.0.0",
     "eslint-plugin-import": "^2.14.0",
