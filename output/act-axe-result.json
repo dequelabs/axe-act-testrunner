@@ -13076,11 +13076,11 @@
         },
         "test": {
           "@type": "TestCase",
-          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-required-attr?application=axeAPI"
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-valid-attr-value?application=axeAPI"
         },
         "result": {
           "@type": "TestResult",
-          "info": "Ensures elements with ARIA roles have all required ARIA attributes",
+          "info": "Ensures all ARIA attributes have valid values",
           "outcome": "earl:passed",
           "pointer": "div"
         }
@@ -13138,11 +13138,11 @@
         },
         "test": {
           "@type": "TestCase",
-          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-required-attr?application=axeAPI"
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-valid-attr-value?application=axeAPI"
         },
         "result": {
           "@type": "TestResult",
-          "info": "Ensures elements with ARIA roles have all required ARIA attributes",
+          "info": "Ensures all ARIA attributes have valid values",
           "outcome": "earl:passed",
           "pointer": "div"
         }
@@ -13200,11 +13200,11 @@
         },
         "test": {
           "@type": "TestCase",
-          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-required-attr?application=axeAPI"
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-valid-attr-value?application=axeAPI"
         },
         "result": {
           "@type": "TestResult",
-          "info": "Ensures elements with ARIA roles have all required ARIA attributes",
+          "info": "Ensures all ARIA attributes have valid values",
           "outcome": "earl:passed",
           "pointer": "div"
         }
@@ -13262,12 +13262,12 @@
         },
         "test": {
           "@type": "TestCase",
-          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-required-attr?application=axeAPI"
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-valid-attr-value?application=axeAPI"
         },
         "result": {
           "@type": "TestResult",
-          "info": "Ensures elements with ARIA roles have all required ARIA attributes",
-          "outcome": "earl:passed",
+          "info": "Ensures all ARIA attributes have valid values",
+          "outcome": "earl:failed",
           "pointer": "div"
         }
       }
@@ -13324,11 +13324,11 @@
         },
         "test": {
           "@type": "TestCase",
-          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-required-attr?application=axeAPI"
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-valid-attr-value?application=axeAPI"
         },
         "result": {
           "@type": "TestResult",
-          "info": "Ensures elements with ARIA roles have all required ARIA attributes",
+          "info": "Ensures all ARIA attributes have valid values",
           "outcome": "earl:failed",
           "pointer": "div"
         }
@@ -13386,11 +13386,11 @@
         },
         "test": {
           "@type": "TestCase",
-          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-required-attr?application=axeAPI"
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-valid-attr-value?application=axeAPI"
         },
         "result": {
           "@type": "TestResult",
-          "info": "Ensures elements with ARIA roles have all required ARIA attributes",
+          "info": "Ensures all ARIA attributes have valid values",
           "outcome": "earl:passed",
           "pointer": "div"
         }
@@ -13448,11 +13448,11 @@
         },
         "test": {
           "@type": "TestCase",
-          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-required-attr?application=axeAPI"
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-valid-attr-value?application=axeAPI"
         },
         "result": {
           "@type": "TestResult",
-          "info": "Ensures elements with ARIA roles have all required ARIA attributes",
+          "info": "Ensures all ARIA attributes have valid values",
           "outcome": "earl:passed",
           "pointer": "div"
         }
@@ -13510,11 +13510,11 @@
         },
         "test": {
           "@type": "TestCase",
-          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-required-attr?application=axeAPI"
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-valid-attr-value?application=axeAPI"
         },
         "result": {
           "@type": "TestResult",
-          "info": "Ensures elements with ARIA roles have all required ARIA attributes",
+          "info": "Ensures all ARIA attributes have valid values",
           "outcome": "earl:passed",
           "pointer": "div"
         }
@@ -13572,11 +13572,11 @@
         },
         "test": {
           "@type": "TestCase",
-          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-required-attr?application=axeAPI"
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-valid-attr-value?application=axeAPI"
         },
         "result": {
           "@type": "TestResult",
-          "info": "Ensures elements with ARIA roles have all required ARIA attributes",
+          "info": "Ensures all ARIA attributes have valid values",
           "outcome": "earl:passed",
           "pointer": "div"
         }
@@ -13634,11 +13634,11 @@
         },
         "test": {
           "@type": "TestCase",
-          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-required-attr?application=axeAPI"
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-valid-attr-value?application=axeAPI"
         },
         "result": {
           "@type": "TestResult",
-          "info": "Ensures elements with ARIA roles have all required ARIA attributes",
+          "info": "Ensures all ARIA attributes have valid values",
           "outcome": "earl:passed",
           "pointer": "div"
         }
@@ -13696,11 +13696,11 @@
         },
         "test": {
           "@type": "TestCase",
-          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-required-attr?application=axeAPI"
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-valid-attr-value?application=axeAPI"
         },
         "result": {
           "@type": "TestResult",
-          "info": "Ensures elements with ARIA roles have all required ARIA attributes",
+          "info": "Ensures all ARIA attributes have valid values",
           "outcome": "earl:passed",
           "pointer": "div[role=\"scrollbar\"]"
         }
@@ -13758,12 +13758,12 @@
         },
         "test": {
           "@type": "TestCase",
-          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-required-attr?application=axeAPI"
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-valid-attr-value?application=axeAPI"
         },
         "result": {
           "@type": "TestResult",
-          "info": "Ensures elements with ARIA roles have all required ARIA attributes",
-          "outcome": "earl:passed",
+          "info": "Ensures all ARIA attributes have valid values",
+          "outcome": "earl:failed",
           "pointer": "div"
         }
       }
@@ -13820,12 +13820,12 @@
         },
         "test": {
           "@type": "TestCase",
-          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-required-attr?application=axeAPI"
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-valid-attr-value?application=axeAPI"
         },
         "result": {
           "@type": "TestResult",
-          "info": "Ensures elements with ARIA roles have all required ARIA attributes",
-          "outcome": "earl:passed",
+          "info": "Ensures all ARIA attributes have valid values",
+          "outcome": "earl:failed",
           "pointer": "div"
         }
       }
@@ -13882,12 +13882,12 @@
         },
         "test": {
           "@type": "TestCase",
-          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-required-attr?application=axeAPI"
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-valid-attr-value?application=axeAPI"
         },
         "result": {
           "@type": "TestResult",
-          "info": "Ensures elements with ARIA roles have all required ARIA attributes",
-          "outcome": "earl:passed",
+          "info": "Ensures all ARIA attributes have valid values",
+          "outcome": "earl:failed",
           "pointer": "div"
         }
       }
@@ -13944,12 +13944,12 @@
         },
         "test": {
           "@type": "TestCase",
-          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-required-attr?application=axeAPI"
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-valid-attr-value?application=axeAPI"
         },
         "result": {
           "@type": "TestResult",
-          "info": "Ensures elements with ARIA roles have all required ARIA attributes",
-          "outcome": "earl:passed",
+          "info": "Ensures all ARIA attributes have valid values",
+          "outcome": "earl:failed",
           "pointer": "div"
         }
       }
@@ -14006,12 +14006,12 @@
         },
         "test": {
           "@type": "TestCase",
-          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-required-attr?application=axeAPI"
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-valid-attr-value?application=axeAPI"
         },
         "result": {
           "@type": "TestResult",
-          "info": "Ensures elements with ARIA roles have all required ARIA attributes",
-          "outcome": "earl:passed",
+          "info": "Ensures all ARIA attributes have valid values",
+          "outcome": "earl:failed",
           "pointer": "div"
         }
       }
@@ -14068,12 +14068,12 @@
         },
         "test": {
           "@type": "TestCase",
-          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-required-attr?application=axeAPI"
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-valid-attr-value?application=axeAPI"
         },
         "result": {
           "@type": "TestResult",
-          "info": "Ensures elements with ARIA roles have all required ARIA attributes",
-          "outcome": "earl:passed",
+          "info": "Ensures all ARIA attributes have valid values",
+          "outcome": "earl:failed",
           "pointer": "div"
         }
       }
@@ -14130,12 +14130,12 @@
         },
         "test": {
           "@type": "TestCase",
-          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-required-attr?application=axeAPI"
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-valid-attr-value?application=axeAPI"
         },
         "result": {
           "@type": "TestResult",
-          "info": "Ensures elements with ARIA roles have all required ARIA attributes",
-          "outcome": "earl:passed",
+          "info": "Ensures all ARIA attributes have valid values",
+          "outcome": "earl:failed",
           "pointer": "div"
         }
       }
@@ -14192,12 +14192,12 @@
         },
         "test": {
           "@type": "TestCase",
-          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-required-attr?application=axeAPI"
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-valid-attr-value?application=axeAPI"
         },
         "result": {
           "@type": "TestResult",
-          "info": "Ensures elements with ARIA roles have all required ARIA attributes",
-          "outcome": "earl:passed",
+          "info": "Ensures all ARIA attributes have valid values",
+          "outcome": "earl:failed",
           "pointer": "div"
         }
       }
@@ -14254,12 +14254,12 @@
         },
         "test": {
           "@type": "TestCase",
-          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-required-attr?application=axeAPI"
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-valid-attr-value?application=axeAPI"
         },
         "result": {
           "@type": "TestResult",
-          "info": "Ensures elements with ARIA roles have all required ARIA attributes",
-          "outcome": "earl:passed",
+          "info": "Ensures all ARIA attributes have valid values",
+          "outcome": "earl:failed",
           "pointer": "my-button"
         }
       }
@@ -14316,12 +14316,12 @@
         },
         "test": {
           "@type": "TestCase",
-          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-required-attr?application=axeAPI"
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-valid-attr-value?application=axeAPI"
         },
         "result": {
           "@type": "TestResult",
-          "info": "Ensures elements with ARIA roles have all required ARIA attributes",
-          "outcome": "earl:passed",
+          "info": "Ensures all ARIA attributes have valid values",
+          "outcome": "earl:failed",
           "pointer": "div"
         }
       }
@@ -14378,7 +14378,7 @@
         },
         "test": {
           "@type": "TestCase",
-          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-required-attr?application=axeAPI"
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-valid-attr-value?application=axeAPI"
         },
         "result": {
           "@type": "TestResult",
@@ -14438,13 +14438,11 @@
         },
         "test": {
           "@type": "TestCase",
-          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-required-attr?application=axeAPI"
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-valid-attr-value?application=axeAPI"
         },
         "result": {
           "@type": "TestResult",
-          "info": "Ensures elements with ARIA roles have all required ARIA attributes",
-          "outcome": "earl:passed",
-          "pointer": "div"
+          "outcome": "earl:inapplicable"
         }
       }
     ]
@@ -14500,12 +14498,12 @@
         },
         "test": {
           "@type": "TestCase",
-          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-required-attr?application=axeAPI"
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-valid-attr-value?application=axeAPI"
         },
         "result": {
           "@type": "TestResult",
-          "info": "Ensures elements with ARIA roles have all required ARIA attributes",
-          "outcome": "earl:passed",
+          "info": "Ensures all ARIA attributes have valid values",
+          "outcome": "earl:failed",
           "pointer": "div"
         }
       }
@@ -14562,11 +14560,11 @@
         },
         "test": {
           "@type": "TestCase",
-          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-required-attr?application=axeAPI"
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-valid-attr-value?application=axeAPI"
         },
         "result": {
           "@type": "TestResult",
-          "info": "Ensures elements with ARIA roles have all required ARIA attributes",
+          "info": "Ensures all ARIA attributes have valid values",
           "outcome": "earl:passed",
           "pointer": "div"
         }
@@ -14624,7 +14622,7 @@
         },
         "test": {
           "@type": "TestCase",
-          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-required-attr?application=axeAPI"
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-valid-attr-value?application=axeAPI"
         },
         "result": {
           "@type": "TestResult",
@@ -15461,6 +15459,684 @@
       }
     },
     "@type": "WebPage",
+    "url": "https://auto-wcag.github.io/auto-wcag/auto-wcag-testcases/assets/SC4-1-2-iframe-has-name_passed_example_1.html",
+    "assertions": [
+      {
+        "@type": "Assertion",
+        "mode": "earl:automatic",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
+        "test": {
+          "@type": "TestCase",
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/frame-title?application=axeAPI"
+        },
+        "result": {
+          "@type": "TestResult",
+          "info": "Ensures <iframe> and <frame> elements contain a non-empty title attribute",
+          "outcome": "earl:passed",
+          "pointer": "iframe"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "@vocab": "http://www.w3.org/ns/earl#",
+      "earl": "http://www.w3.org/ns/earl#",
+      "WCAG20": "http://www.w3.org/TR/WCAG20/#",
+      "WCAG21": "http://www.w3.org/TR/WCAG21/#",
+      "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
+      "dct": "http://purl.org/dc/terms#",
+      "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
+      "WebPage": "sch:WebPage",
+      "url": "dct:source",
+      "assertions": {
+        "@reverse": "subject"
+      },
+      "assertedBy": {
+        "@type": "@id"
+      },
+      "outcome": {
+        "@type": "@id"
+      },
+      "mode": {
+        "@type": "@id"
+      },
+      "pointer": {
+        "@type": "ptr:CSSSelectorPointer"
+      }
+    },
+    "@type": "WebPage",
+    "url": "https://auto-wcag.github.io/auto-wcag/auto-wcag-testcases/assets/SC4-1-2-iframe-has-name_passed_example_2.html",
+    "assertions": [
+      {
+        "@type": "Assertion",
+        "mode": "earl:automatic",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
+        "test": {
+          "@type": "TestCase",
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/frame-title?application=axeAPI"
+        },
+        "result": {
+          "@type": "TestResult",
+          "info": "Ensures <iframe> and <frame> elements contain a non-empty title attribute",
+          "outcome": "earl:passed",
+          "pointer": "iframe"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "@vocab": "http://www.w3.org/ns/earl#",
+      "earl": "http://www.w3.org/ns/earl#",
+      "WCAG20": "http://www.w3.org/TR/WCAG20/#",
+      "WCAG21": "http://www.w3.org/TR/WCAG21/#",
+      "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
+      "dct": "http://purl.org/dc/terms#",
+      "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
+      "WebPage": "sch:WebPage",
+      "url": "dct:source",
+      "assertions": {
+        "@reverse": "subject"
+      },
+      "assertedBy": {
+        "@type": "@id"
+      },
+      "outcome": {
+        "@type": "@id"
+      },
+      "mode": {
+        "@type": "@id"
+      },
+      "pointer": {
+        "@type": "ptr:CSSSelectorPointer"
+      }
+    },
+    "@type": "WebPage",
+    "url": "https://auto-wcag.github.io/auto-wcag/auto-wcag-testcases/assets/SC4-1-2-iframe-has-name_passed_example_3.html",
+    "assertions": [
+      {
+        "@type": "Assertion",
+        "mode": "earl:automatic",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
+        "test": {
+          "@type": "TestCase",
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/frame-title?application=axeAPI"
+        },
+        "result": {
+          "@type": "TestResult",
+          "info": "Ensures <iframe> and <frame> elements contain a non-empty title attribute",
+          "outcome": "earl:passed",
+          "pointer": "iframe"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "@vocab": "http://www.w3.org/ns/earl#",
+      "earl": "http://www.w3.org/ns/earl#",
+      "WCAG20": "http://www.w3.org/TR/WCAG20/#",
+      "WCAG21": "http://www.w3.org/TR/WCAG21/#",
+      "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
+      "dct": "http://purl.org/dc/terms#",
+      "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
+      "WebPage": "sch:WebPage",
+      "url": "dct:source",
+      "assertions": {
+        "@reverse": "subject"
+      },
+      "assertedBy": {
+        "@type": "@id"
+      },
+      "outcome": {
+        "@type": "@id"
+      },
+      "mode": {
+        "@type": "@id"
+      },
+      "pointer": {
+        "@type": "ptr:CSSSelectorPointer"
+      }
+    },
+    "@type": "WebPage",
+    "url": "https://auto-wcag.github.io/auto-wcag/auto-wcag-testcases/assets/SC4-1-2-iframe-has-name_failed_example_1.html",
+    "assertions": [
+      {
+        "@type": "Assertion",
+        "mode": "earl:automatic",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
+        "test": {
+          "@type": "TestCase",
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/frame-title?application=axeAPI"
+        },
+        "result": {
+          "@type": "TestResult",
+          "info": "Ensures <iframe> and <frame> elements contain a non-empty title attribute",
+          "outcome": "earl:failed",
+          "pointer": "iframe"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "@vocab": "http://www.w3.org/ns/earl#",
+      "earl": "http://www.w3.org/ns/earl#",
+      "WCAG20": "http://www.w3.org/TR/WCAG20/#",
+      "WCAG21": "http://www.w3.org/TR/WCAG21/#",
+      "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
+      "dct": "http://purl.org/dc/terms#",
+      "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
+      "WebPage": "sch:WebPage",
+      "url": "dct:source",
+      "assertions": {
+        "@reverse": "subject"
+      },
+      "assertedBy": {
+        "@type": "@id"
+      },
+      "outcome": {
+        "@type": "@id"
+      },
+      "mode": {
+        "@type": "@id"
+      },
+      "pointer": {
+        "@type": "ptr:CSSSelectorPointer"
+      }
+    },
+    "@type": "WebPage",
+    "url": "https://auto-wcag.github.io/auto-wcag/auto-wcag-testcases/assets/SC4-1-2-iframe-has-name_failed_example_2.html",
+    "assertions": [
+      {
+        "@type": "Assertion",
+        "mode": "earl:automatic",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
+        "test": {
+          "@type": "TestCase",
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/frame-title?application=axeAPI"
+        },
+        "result": {
+          "@type": "TestResult",
+          "info": "Ensures <iframe> and <frame> elements contain a non-empty title attribute",
+          "outcome": "earl:failed",
+          "pointer": "iframe"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "@vocab": "http://www.w3.org/ns/earl#",
+      "earl": "http://www.w3.org/ns/earl#",
+      "WCAG20": "http://www.w3.org/TR/WCAG20/#",
+      "WCAG21": "http://www.w3.org/TR/WCAG21/#",
+      "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
+      "dct": "http://purl.org/dc/terms#",
+      "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
+      "WebPage": "sch:WebPage",
+      "url": "dct:source",
+      "assertions": {
+        "@reverse": "subject"
+      },
+      "assertedBy": {
+        "@type": "@id"
+      },
+      "outcome": {
+        "@type": "@id"
+      },
+      "mode": {
+        "@type": "@id"
+      },
+      "pointer": {
+        "@type": "ptr:CSSSelectorPointer"
+      }
+    },
+    "@type": "WebPage",
+    "url": "https://auto-wcag.github.io/auto-wcag/auto-wcag-testcases/assets/SC4-1-2-iframe-has-name_failed_example_3.html",
+    "assertions": [
+      {
+        "@type": "Assertion",
+        "mode": "earl:automatic",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
+        "test": {
+          "@type": "TestCase",
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/frame-title?application=axeAPI"
+        },
+        "result": {
+          "@type": "TestResult",
+          "info": "Ensures <iframe> and <frame> elements contain a non-empty title attribute",
+          "outcome": "earl:failed",
+          "pointer": "iframe"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "@vocab": "http://www.w3.org/ns/earl#",
+      "earl": "http://www.w3.org/ns/earl#",
+      "WCAG20": "http://www.w3.org/TR/WCAG20/#",
+      "WCAG21": "http://www.w3.org/TR/WCAG21/#",
+      "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
+      "dct": "http://purl.org/dc/terms#",
+      "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
+      "WebPage": "sch:WebPage",
+      "url": "dct:source",
+      "assertions": {
+        "@reverse": "subject"
+      },
+      "assertedBy": {
+        "@type": "@id"
+      },
+      "outcome": {
+        "@type": "@id"
+      },
+      "mode": {
+        "@type": "@id"
+      },
+      "pointer": {
+        "@type": "ptr:CSSSelectorPointer"
+      }
+    },
+    "@type": "WebPage",
+    "url": "https://auto-wcag.github.io/auto-wcag/auto-wcag-testcases/assets/SC4-1-2-iframe-has-name_failed_example_4.html",
+    "assertions": [
+      {
+        "@type": "Assertion",
+        "mode": "earl:automatic",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
+        "test": {
+          "@type": "TestCase",
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/frame-title?application=axeAPI"
+        },
+        "result": {
+          "@type": "TestResult",
+          "info": "Ensures <iframe> and <frame> elements contain a non-empty title attribute",
+          "outcome": "earl:failed",
+          "pointer": "iframe"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "@vocab": "http://www.w3.org/ns/earl#",
+      "earl": "http://www.w3.org/ns/earl#",
+      "WCAG20": "http://www.w3.org/TR/WCAG20/#",
+      "WCAG21": "http://www.w3.org/TR/WCAG21/#",
+      "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
+      "dct": "http://purl.org/dc/terms#",
+      "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
+      "WebPage": "sch:WebPage",
+      "url": "dct:source",
+      "assertions": {
+        "@reverse": "subject"
+      },
+      "assertedBy": {
+        "@type": "@id"
+      },
+      "outcome": {
+        "@type": "@id"
+      },
+      "mode": {
+        "@type": "@id"
+      },
+      "pointer": {
+        "@type": "ptr:CSSSelectorPointer"
+      }
+    },
+    "@type": "WebPage",
+    "url": "https://auto-wcag.github.io/auto-wcag/auto-wcag-testcases/assets/SC4-1-2-iframe-has-name_failed_example_5.html",
+    "assertions": [
+      {
+        "@type": "Assertion",
+        "mode": "earl:automatic",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
+        "test": {
+          "@type": "TestCase",
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/frame-title?application=axeAPI"
+        },
+        "result": {
+          "@type": "TestResult",
+          "info": "Ensures <iframe> and <frame> elements contain a non-empty title attribute",
+          "outcome": "earl:failed",
+          "pointer": "iframe"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "@vocab": "http://www.w3.org/ns/earl#",
+      "earl": "http://www.w3.org/ns/earl#",
+      "WCAG20": "http://www.w3.org/TR/WCAG20/#",
+      "WCAG21": "http://www.w3.org/TR/WCAG21/#",
+      "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
+      "dct": "http://purl.org/dc/terms#",
+      "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
+      "WebPage": "sch:WebPage",
+      "url": "dct:source",
+      "assertions": {
+        "@reverse": "subject"
+      },
+      "assertedBy": {
+        "@type": "@id"
+      },
+      "outcome": {
+        "@type": "@id"
+      },
+      "mode": {
+        "@type": "@id"
+      },
+      "pointer": {
+        "@type": "ptr:CSSSelectorPointer"
+      }
+    },
+    "@type": "WebPage",
+    "url": "https://auto-wcag.github.io/auto-wcag/auto-wcag-testcases/assets/SC4-1-2-iframe-has-name_failed_example_6.html",
+    "assertions": [
+      {
+        "@type": "Assertion",
+        "mode": "earl:automatic",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
+        "test": {
+          "@type": "TestCase",
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/frame-title?application=axeAPI"
+        },
+        "result": {
+          "@type": "TestResult",
+          "info": "Ensures <iframe> and <frame> elements contain a non-empty title attribute",
+          "outcome": "earl:failed",
+          "pointer": "iframe"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "@vocab": "http://www.w3.org/ns/earl#",
+      "earl": "http://www.w3.org/ns/earl#",
+      "WCAG20": "http://www.w3.org/TR/WCAG20/#",
+      "WCAG21": "http://www.w3.org/TR/WCAG21/#",
+      "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
+      "dct": "http://purl.org/dc/terms#",
+      "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
+      "WebPage": "sch:WebPage",
+      "url": "dct:source",
+      "assertions": {
+        "@reverse": "subject"
+      },
+      "assertedBy": {
+        "@type": "@id"
+      },
+      "outcome": {
+        "@type": "@id"
+      },
+      "mode": {
+        "@type": "@id"
+      },
+      "pointer": {
+        "@type": "ptr:CSSSelectorPointer"
+      }
+    },
+    "@type": "WebPage",
+    "url": "https://auto-wcag.github.io/auto-wcag/auto-wcag-testcases/assets/SC4-1-2-iframe-has-name_inapplicable_example_1.html",
+    "assertions": [
+      {
+        "@type": "Assertion",
+        "mode": "earl:automatic",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
+        "test": {
+          "@type": "TestCase",
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/frame-title?application=axeAPI"
+        },
+        "result": {
+          "@type": "TestResult",
+          "outcome": "earl:inapplicable"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "@vocab": "http://www.w3.org/ns/earl#",
+      "earl": "http://www.w3.org/ns/earl#",
+      "WCAG20": "http://www.w3.org/TR/WCAG20/#",
+      "WCAG21": "http://www.w3.org/TR/WCAG21/#",
+      "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
+      "dct": "http://purl.org/dc/terms#",
+      "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
+      "WebPage": "sch:WebPage",
+      "url": "dct:source",
+      "assertions": {
+        "@reverse": "subject"
+      },
+      "assertedBy": {
+        "@type": "@id"
+      },
+      "outcome": {
+        "@type": "@id"
+      },
+      "mode": {
+        "@type": "@id"
+      },
+      "pointer": {
+        "@type": "ptr:CSSSelectorPointer"
+      }
+    },
+    "@type": "WebPage",
+    "url": "https://auto-wcag.github.io/auto-wcag/auto-wcag-testcases/assets/SC4-1-2-iframe-has-name_inapplicable_example_2.html",
+    "assertions": [
+      {
+        "@type": "Assertion",
+        "mode": "earl:automatic",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
+        "test": {
+          "@type": "TestCase",
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/frame-title?application=axeAPI"
+        },
+        "result": {
+          "@type": "TestResult",
+          "outcome": "earl:inapplicable"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "@vocab": "http://www.w3.org/ns/earl#",
+      "earl": "http://www.w3.org/ns/earl#",
+      "WCAG20": "http://www.w3.org/TR/WCAG20/#",
+      "WCAG21": "http://www.w3.org/TR/WCAG21/#",
+      "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
+      "dct": "http://purl.org/dc/terms#",
+      "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
+      "WebPage": "sch:WebPage",
+      "url": "dct:source",
+      "assertions": {
+        "@reverse": "subject"
+      },
+      "assertedBy": {
+        "@type": "@id"
+      },
+      "outcome": {
+        "@type": "@id"
+      },
+      "mode": {
+        "@type": "@id"
+      },
+      "pointer": {
+        "@type": "ptr:CSSSelectorPointer"
+      }
+    },
+    "@type": "WebPage",
     "url": "https://auto-wcag.github.io/auto-wcag/auto-wcag-testcases/assets/SC4-1-2-role-attribute-has-valid-value_passed_example_1.html",
     "assertions": [
       {
@@ -15981,6 +16657,684 @@
         "result": {
           "@type": "TestResult",
           "outcome": "earl:inapplicable"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "@vocab": "http://www.w3.org/ns/earl#",
+      "earl": "http://www.w3.org/ns/earl#",
+      "WCAG20": "http://www.w3.org/TR/WCAG20/#",
+      "WCAG21": "http://www.w3.org/TR/WCAG21/#",
+      "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
+      "dct": "http://purl.org/dc/terms#",
+      "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
+      "WebPage": "sch:WebPage",
+      "url": "dct:source",
+      "assertions": {
+        "@reverse": "subject"
+      },
+      "assertedBy": {
+        "@type": "@id"
+      },
+      "outcome": {
+        "@type": "@id"
+      },
+      "mode": {
+        "@type": "@id"
+      },
+      "pointer": {
+        "@type": "ptr:CSSSelectorPointer"
+      }
+    },
+    "@type": "WebPage",
+    "url": "https://auto-wcag.github.io/auto-wcag/auto-wcag-testcases/assets/SC4-1-2-role-has-required-states-and-properties_passed_example_1.html",
+    "assertions": [
+      {
+        "@type": "Assertion",
+        "mode": "earl:automatic",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
+        "test": {
+          "@type": "TestCase",
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-required-attr?application=axeAPI"
+        },
+        "result": {
+          "@type": "TestResult",
+          "info": "Ensures elements with ARIA roles have all required ARIA attributes",
+          "outcome": "earl:passed",
+          "pointer": "div"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "@vocab": "http://www.w3.org/ns/earl#",
+      "earl": "http://www.w3.org/ns/earl#",
+      "WCAG20": "http://www.w3.org/TR/WCAG20/#",
+      "WCAG21": "http://www.w3.org/TR/WCAG21/#",
+      "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
+      "dct": "http://purl.org/dc/terms#",
+      "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
+      "WebPage": "sch:WebPage",
+      "url": "dct:source",
+      "assertions": {
+        "@reverse": "subject"
+      },
+      "assertedBy": {
+        "@type": "@id"
+      },
+      "outcome": {
+        "@type": "@id"
+      },
+      "mode": {
+        "@type": "@id"
+      },
+      "pointer": {
+        "@type": "ptr:CSSSelectorPointer"
+      }
+    },
+    "@type": "WebPage",
+    "url": "https://auto-wcag.github.io/auto-wcag/auto-wcag-testcases/assets/SC4-1-2-role-has-required-states-and-properties_passed_example_2.html",
+    "assertions": [
+      {
+        "@type": "Assertion",
+        "mode": "earl:automatic",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
+        "test": {
+          "@type": "TestCase",
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-required-attr?application=axeAPI"
+        },
+        "result": {
+          "@type": "TestResult",
+          "info": "Ensures elements with ARIA roles have all required ARIA attributes",
+          "outcome": "earl:passed",
+          "pointer": "div"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "@vocab": "http://www.w3.org/ns/earl#",
+      "earl": "http://www.w3.org/ns/earl#",
+      "WCAG20": "http://www.w3.org/TR/WCAG20/#",
+      "WCAG21": "http://www.w3.org/TR/WCAG21/#",
+      "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
+      "dct": "http://purl.org/dc/terms#",
+      "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
+      "WebPage": "sch:WebPage",
+      "url": "dct:source",
+      "assertions": {
+        "@reverse": "subject"
+      },
+      "assertedBy": {
+        "@type": "@id"
+      },
+      "outcome": {
+        "@type": "@id"
+      },
+      "mode": {
+        "@type": "@id"
+      },
+      "pointer": {
+        "@type": "ptr:CSSSelectorPointer"
+      }
+    },
+    "@type": "WebPage",
+    "url": "https://auto-wcag.github.io/auto-wcag/auto-wcag-testcases/assets/SC4-1-2-role-has-required-states-and-properties_passed_example_3.html",
+    "assertions": [
+      {
+        "@type": "Assertion",
+        "mode": "earl:automatic",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
+        "test": {
+          "@type": "TestCase",
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-required-attr?application=axeAPI"
+        },
+        "result": {
+          "@type": "TestResult",
+          "info": "Ensures elements with ARIA roles have all required ARIA attributes",
+          "outcome": "earl:passed",
+          "pointer": "div"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "@vocab": "http://www.w3.org/ns/earl#",
+      "earl": "http://www.w3.org/ns/earl#",
+      "WCAG20": "http://www.w3.org/TR/WCAG20/#",
+      "WCAG21": "http://www.w3.org/TR/WCAG21/#",
+      "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
+      "dct": "http://purl.org/dc/terms#",
+      "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
+      "WebPage": "sch:WebPage",
+      "url": "dct:source",
+      "assertions": {
+        "@reverse": "subject"
+      },
+      "assertedBy": {
+        "@type": "@id"
+      },
+      "outcome": {
+        "@type": "@id"
+      },
+      "mode": {
+        "@type": "@id"
+      },
+      "pointer": {
+        "@type": "ptr:CSSSelectorPointer"
+      }
+    },
+    "@type": "WebPage",
+    "url": "https://auto-wcag.github.io/auto-wcag/auto-wcag-testcases/assets/SC4-1-2-role-has-required-states-and-properties_passed_example_4.html",
+    "assertions": [
+      {
+        "@type": "Assertion",
+        "mode": "earl:automatic",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
+        "test": {
+          "@type": "TestCase",
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-required-attr?application=axeAPI"
+        },
+        "result": {
+          "@type": "TestResult",
+          "info": "Ensures elements with ARIA roles have all required ARIA attributes",
+          "outcome": "earl:passed",
+          "pointer": "div"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "@vocab": "http://www.w3.org/ns/earl#",
+      "earl": "http://www.w3.org/ns/earl#",
+      "WCAG20": "http://www.w3.org/TR/WCAG20/#",
+      "WCAG21": "http://www.w3.org/TR/WCAG21/#",
+      "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
+      "dct": "http://purl.org/dc/terms#",
+      "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
+      "WebPage": "sch:WebPage",
+      "url": "dct:source",
+      "assertions": {
+        "@reverse": "subject"
+      },
+      "assertedBy": {
+        "@type": "@id"
+      },
+      "outcome": {
+        "@type": "@id"
+      },
+      "mode": {
+        "@type": "@id"
+      },
+      "pointer": {
+        "@type": "ptr:CSSSelectorPointer"
+      }
+    },
+    "@type": "WebPage",
+    "url": "https://auto-wcag.github.io/auto-wcag/auto-wcag-testcases/assets/SC4-1-2-role-has-required-states-and-properties_passed_example_5.html",
+    "assertions": [
+      {
+        "@type": "Assertion",
+        "mode": "earl:automatic",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
+        "test": {
+          "@type": "TestCase",
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-required-attr?application=axeAPI"
+        },
+        "result": {
+          "@type": "TestResult",
+          "info": "Ensures elements with ARIA roles have all required ARIA attributes",
+          "outcome": "earl:failed",
+          "pointer": "div"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "@vocab": "http://www.w3.org/ns/earl#",
+      "earl": "http://www.w3.org/ns/earl#",
+      "WCAG20": "http://www.w3.org/TR/WCAG20/#",
+      "WCAG21": "http://www.w3.org/TR/WCAG21/#",
+      "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
+      "dct": "http://purl.org/dc/terms#",
+      "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
+      "WebPage": "sch:WebPage",
+      "url": "dct:source",
+      "assertions": {
+        "@reverse": "subject"
+      },
+      "assertedBy": {
+        "@type": "@id"
+      },
+      "outcome": {
+        "@type": "@id"
+      },
+      "mode": {
+        "@type": "@id"
+      },
+      "pointer": {
+        "@type": "ptr:CSSSelectorPointer"
+      }
+    },
+    "@type": "WebPage",
+    "url": "https://auto-wcag.github.io/auto-wcag/auto-wcag-testcases/assets/SC4-1-2-role-has-required-states-and-properties_passed_example_6.html",
+    "assertions": [
+      {
+        "@type": "Assertion",
+        "mode": "earl:automatic",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
+        "test": {
+          "@type": "TestCase",
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-required-attr?application=axeAPI"
+        },
+        "result": {
+          "@type": "TestResult",
+          "info": "Ensures elements with ARIA roles have all required ARIA attributes",
+          "outcome": "earl:failed",
+          "pointer": "div"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "@vocab": "http://www.w3.org/ns/earl#",
+      "earl": "http://www.w3.org/ns/earl#",
+      "WCAG20": "http://www.w3.org/TR/WCAG20/#",
+      "WCAG21": "http://www.w3.org/TR/WCAG21/#",
+      "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
+      "dct": "http://purl.org/dc/terms#",
+      "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
+      "WebPage": "sch:WebPage",
+      "url": "dct:source",
+      "assertions": {
+        "@reverse": "subject"
+      },
+      "assertedBy": {
+        "@type": "@id"
+      },
+      "outcome": {
+        "@type": "@id"
+      },
+      "mode": {
+        "@type": "@id"
+      },
+      "pointer": {
+        "@type": "ptr:CSSSelectorPointer"
+      }
+    },
+    "@type": "WebPage",
+    "url": "https://auto-wcag.github.io/auto-wcag/auto-wcag-testcases/assets/SC4-1-2-role-has-required-states-and-properties_failed_example_1.html",
+    "assertions": [
+      {
+        "@type": "Assertion",
+        "mode": "earl:automatic",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
+        "test": {
+          "@type": "TestCase",
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-required-attr?application=axeAPI"
+        },
+        "result": {
+          "@type": "TestResult",
+          "info": "Ensures elements with ARIA roles have all required ARIA attributes",
+          "outcome": "earl:failed",
+          "pointer": "div"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "@vocab": "http://www.w3.org/ns/earl#",
+      "earl": "http://www.w3.org/ns/earl#",
+      "WCAG20": "http://www.w3.org/TR/WCAG20/#",
+      "WCAG21": "http://www.w3.org/TR/WCAG21/#",
+      "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
+      "dct": "http://purl.org/dc/terms#",
+      "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
+      "WebPage": "sch:WebPage",
+      "url": "dct:source",
+      "assertions": {
+        "@reverse": "subject"
+      },
+      "assertedBy": {
+        "@type": "@id"
+      },
+      "outcome": {
+        "@type": "@id"
+      },
+      "mode": {
+        "@type": "@id"
+      },
+      "pointer": {
+        "@type": "ptr:CSSSelectorPointer"
+      }
+    },
+    "@type": "WebPage",
+    "url": "https://auto-wcag.github.io/auto-wcag/auto-wcag-testcases/assets/SC4-1-2-role-has-required-states-and-properties_failed_example_2.html",
+    "assertions": [
+      {
+        "@type": "Assertion",
+        "mode": "earl:automatic",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
+        "test": {
+          "@type": "TestCase",
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-required-attr?application=axeAPI"
+        },
+        "result": {
+          "@type": "TestResult",
+          "info": "Ensures elements with ARIA roles have all required ARIA attributes",
+          "outcome": "earl:failed",
+          "pointer": "div"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "@vocab": "http://www.w3.org/ns/earl#",
+      "earl": "http://www.w3.org/ns/earl#",
+      "WCAG20": "http://www.w3.org/TR/WCAG20/#",
+      "WCAG21": "http://www.w3.org/TR/WCAG21/#",
+      "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
+      "dct": "http://purl.org/dc/terms#",
+      "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
+      "WebPage": "sch:WebPage",
+      "url": "dct:source",
+      "assertions": {
+        "@reverse": "subject"
+      },
+      "assertedBy": {
+        "@type": "@id"
+      },
+      "outcome": {
+        "@type": "@id"
+      },
+      "mode": {
+        "@type": "@id"
+      },
+      "pointer": {
+        "@type": "ptr:CSSSelectorPointer"
+      }
+    },
+    "@type": "WebPage",
+    "url": "https://auto-wcag.github.io/auto-wcag/auto-wcag-testcases/assets/SC4-1-2-role-has-required-states-and-properties_inapplicable_example_1.html",
+    "assertions": [
+      {
+        "@type": "Assertion",
+        "mode": "earl:automatic",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
+        "test": {
+          "@type": "TestCase",
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-required-attr?application=axeAPI"
+        },
+        "result": {
+          "@type": "TestResult",
+          "outcome": "earl:inapplicable"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "@vocab": "http://www.w3.org/ns/earl#",
+      "earl": "http://www.w3.org/ns/earl#",
+      "WCAG20": "http://www.w3.org/TR/WCAG20/#",
+      "WCAG21": "http://www.w3.org/TR/WCAG21/#",
+      "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
+      "dct": "http://purl.org/dc/terms#",
+      "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
+      "WebPage": "sch:WebPage",
+      "url": "dct:source",
+      "assertions": {
+        "@reverse": "subject"
+      },
+      "assertedBy": {
+        "@type": "@id"
+      },
+      "outcome": {
+        "@type": "@id"
+      },
+      "mode": {
+        "@type": "@id"
+      },
+      "pointer": {
+        "@type": "ptr:CSSSelectorPointer"
+      }
+    },
+    "@type": "WebPage",
+    "url": "https://auto-wcag.github.io/auto-wcag/auto-wcag-testcases/assets/SC4-1-2-role-has-required-states-and-properties_inapplicable_example_2.html",
+    "assertions": [
+      {
+        "@type": "Assertion",
+        "mode": "earl:automatic",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
+        "test": {
+          "@type": "TestCase",
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-required-attr?application=axeAPI"
+        },
+        "result": {
+          "@type": "TestResult",
+          "outcome": "earl:inapplicable"
+        }
+      }
+    ]
+  },
+  {
+    "@context": {
+      "@vocab": "http://www.w3.org/ns/earl#",
+      "earl": "http://www.w3.org/ns/earl#",
+      "WCAG20": "http://www.w3.org/TR/WCAG20/#",
+      "WCAG21": "http://www.w3.org/TR/WCAG21/#",
+      "auto-wcag": "https://auto-wcag.github.io/auto-wcag/rules/",
+      "dct": "http://purl.org/dc/terms#",
+      "sch": "https://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#",
+      "foaf": "http://xmlns.com/foaf/spec/#",
+      "WebPage": "sch:WebPage",
+      "url": "dct:source",
+      "assertions": {
+        "@reverse": "subject"
+      },
+      "assertedBy": {
+        "@type": "@id"
+      },
+      "outcome": {
+        "@type": "@id"
+      },
+      "mode": {
+        "@type": "@id"
+      },
+      "pointer": {
+        "@type": "ptr:CSSSelectorPointer"
+      }
+    },
+    "@type": "WebPage",
+    "url": "https://auto-wcag.github.io/auto-wcag/auto-wcag-testcases/assets/SC4-1-2-role-has-required-states-and-properties_inapplicable_example_3.html",
+    "assertions": [
+      {
+        "@type": "Assertion",
+        "mode": "earl:automatic",
+        "assertedBy": {
+          "@id": "https://github.com/dequelabs/axe-core/releases/tag/3.1.0",
+          "@type": [
+            "earl:Assertor",
+            "earl:Software",
+            "doap:Project"
+          ],
+          "doap:name": "Axe",
+          "doap:vendor": {
+            "@id": "https://deque.com/",
+            "@type": "foaf:Organization",
+            "foaf:name": "Deque Systems"
+          }
+        },
+        "test": {
+          "@type": "TestCase",
+          "@id": "https://dequeuniversity.com/rules/axe/3.1/aria-required-attr?application=axeAPI"
+        },
+        "result": {
+          "@type": "TestResult",
+          "info": "Ensures elements with ARIA roles have all required ARIA attributes",
+          "outcome": "earl:passed",
+          "pointer": "input"
         }
       }
     ]

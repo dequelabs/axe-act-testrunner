@@ -16,10 +16,10 @@ const rulesMap = {
   'SC1-2-video-description-track': ['video-description'],
   'SC1-2-video-transcript': ['video-caption', 'video-description'],
   'SC1-3-5-autocomplete-valid': ['autocomplete-valid'],
-  // 'SC2-1-2-no-keyboard-trap-non-standard-navigation': [],
-  // 'SC2-1-2-no-keyboard-trap-standard-navigation': [],
-  // 'SC2-1-2-no-keyboard-trap': [],
-  // 'SC2-2-1+SC2-2-4-meta-refresh': ['meta-refresh'],
+  'SC2-1-2-no-keyboard-trap-non-standard-navigation': [],
+  'SC2-1-2-no-keyboard-trap-standard-navigation': [],
+  'SC2-1-2-no-keyboard-trap': [],
+  // 'SC2-2-1+SC2-2-4-meta-refresh': ['meta-refresh'], // TODO: go through test cases to handle
   'SC2-4-2-page-has-title': ['document-title'],
   'SC2-4-4-link-has-name': ['link-name'],
   'SC2-4-6-descriptive-headings': [],
@@ -39,11 +39,11 @@ const rulesMap = {
   'SC4-1-1+SC4-1-2-aria-allowed-attribute': ['aria-allowed-attr'],
   'SC4-1-2-aria-attr-valid': ['aria-valid-attr'],
   'SC4-1-2-aria-hidden-focus': [],
-  'SC4-1-2-aria-state-or-property-has-valid-value': ['aria-required-attr'],
+  'SC4-1-2-aria-state-or-property-has-valid-value': ['aria-valid-attr-value'],
   'SC4-1-2-button-has-name': ['button-name'],
-  'SC4-1-2-iframe-has-name': [],
+  'SC4-1-2-iframe-has-name': ['frame-title'],
   'SC4-1-2-role-attribute-has-valid-value': ['aria-roles'],
-  'SC4-1-2-role-has-required-states-and-properties': []
+  'SC4-1-2-role-has-required-states-and-properties': ['aria-required-attr']
 }
 
 // export
