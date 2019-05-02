@@ -16,6 +16,11 @@ const configuration = {
   skipTests, // tests to skip
 
   /**
+   * Override to specify specific rules to run.
+   */
+  runOnly: undefined,
+
+  /**
    * List of scripts to be injected into the testrunner(s) page instance
    */
   injectScripts: [axePath],
