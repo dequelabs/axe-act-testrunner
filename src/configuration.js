@@ -14,12 +14,12 @@ const configuration = {
   /**
    * List of tests to be skipped by the testrunner
    */
-  skipTests, // tests to skip
+  skipTests,
 
   /**
-   * Override to specify specific rules to run.
+   * Run only these tests if specified	
    */
-  runOnly: undefined,
+  runOnly,
 
   /**
    * List of scripts to be injected into the testrunner(s) page instance
