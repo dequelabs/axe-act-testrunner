@@ -1,6 +1,7 @@
 const axePath = require.resolve('axe-core')
 const { createEarlReport } = require('axe-reporter-earl')
 const { skipTests } = require('./skip-tests')
+const { runOnly } = require('./run-only')
 const { rulesMap } = require('./rules-map')
 const { evaluate } = require('./evaluate')
 

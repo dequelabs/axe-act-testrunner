@@ -163,10 +163,10 @@ const rules_year_2 = {
 }
 
 /**
- * Mapping of Auto-WCAG rules to Axe-Core rules
+ * Mapping of ACT rules to Axe-Core rules
  * This defines which rules to run on each test case
  *
- * `Keys` are ruleId(s) from Auto-WCAG
+ * `Keys` are ruleId(s) from ACT Rules
  * `Values` are an array of rule id(s) from Axe-Core
  */
 const rulesMap = {
