@@ -17,7 +17,7 @@ const configuration = {
   skipTests,
 
   /**
-   * Run only these tests if specified	
+   * Run only these tests if specified
    */
   runOnly,
 
