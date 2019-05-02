@@ -7,7 +7,9 @@
  * 3) fileExtensions: skip files with these extensions
  */
 const skipTests = {
-  ruleIds: [],
+  ruleIds: [
+    'bc659a' // meta-refresh ->  https://act-rules.github.io/rules/bc659a
+  ],
   testCases: [],
   fileExtensions: ['svg']
 }
