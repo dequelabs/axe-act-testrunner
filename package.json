@@ -26,21 +26,21 @@
   },
   "homepage": "https://github.com/dequelabs/axe-act-testrunner#readme",
   "dependencies": {
-    "axe-core": "^3.1.2-canary.e24cea9",
+    "axe-core": "^3.2.2-canary.b573b1c",
     "axe-reporter-earl": "0.1.0-canary.be38c0de",
     "fs-extra": "^7.0.0",
-    "testrunner": "git+https://github.com/auto-wcag/testrunner.git#master"
+    "testrunner": "git+https://github.com/act-rules/testrunner.git#master"
   },
   "devDependencies": {
-    "eslint": "^5.6.0",
-    "eslint-config-prettier": "^3.1.0",
+    "eslint": "^5.16.0",
+    "eslint-config-prettier": "^3.6.0",
     "eslint-config-prettier-standard": "^2.0.0",
     "eslint-config-standard": "^12.0.0",
-    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-import": "^2.17.2",
     "eslint-plugin-node": "^7.0.1",
     "eslint-plugin-prettier": "^2.6.2",
-    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-promise": "^4.1.1",
     "eslint-plugin-standard": "^4.0.0",
-    "prettier": "^1.14.2"
+    "prettier": "^1.17.0"
   }
 }

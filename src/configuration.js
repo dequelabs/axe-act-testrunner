@@ -14,7 +14,7 @@ const configuration = {
   /**
    * List of tests to be skipped by the testrunner
    */
-  skipTests, // tests to skip
+  skipTests,
 
   /**
    * Run only these tests if specified
