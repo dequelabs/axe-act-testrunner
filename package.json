@@ -28,7 +28,7 @@
   "dependencies": {
     "axe-core": "^3.2.2-canary.b573b1c",
     "axe-reporter-earl": "0.1.0-canary.be38c0de",
-    "fs-extra": "^7.0.0",
+    "fs-extra": "^8.1.0",
     "testrunner": "git+https://github.com/act-rules/testrunner.git#master"
   },
   "devDependencies": {
